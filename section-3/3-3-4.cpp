@@ -36,6 +36,7 @@ int main(){
     print_vector_string(v7);
 }
 */
+//rosalee 
 // Exercise 3.21
 void convert_upper(vector<string> &v){
     for(auto it = v.begin(); it != v.end(); ++it){
